@@ -1,2 +1,2 @@
 print("Привет мир!"
-print("what do you do"
+print("what do you do"?
